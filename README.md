@@ -30,4 +30,6 @@ For forgot password feature.
 4. As soon as he click submit button, he is sending you a token and new password.
 5. Verify the token and save the new password after encrypting it.
 
+
+Don't forget to ⭐ the repo
 - 
